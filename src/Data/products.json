@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "image": "https://hafeezcentreonline.pk/cdn/shop/products/A16e.png?v=1663962787&width=600",
+        "title": "Mobile",
+        "price": 100
+    },
+    {
+        "id": 2,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy3nFh763gVrOY8deqDObVJ3qFU1g8RpD7wQ&usqp=CAU",
+        "title": "Laptop",
+        "price": 300
+    },
+    {
+        "id": 3,
+        "image": "https://www.paklap.pk/media/catalog/product/cache/2cc443e44e97595ea39006016c876eaa/c/h/changhong.jpg",
+        "title": "LED",
+        "price": 850
+    },
+    {
+        "id": 4,
+        "image": "https://zerolifestyle.co/cdn/shop/products/blue_blue_3.png?v=1694428486&width=600",
+        "title": "Smart Watch",
+        "price": 250
+    },
+    {
+        "id": 5,
+        "image": "https://allmytech.pk/wp-content/uploads/2023/08/earfun-air-wireless-earbuds.jpg",
+        "title": "Ear Buds",
+        "price": 150
+    }
+]
