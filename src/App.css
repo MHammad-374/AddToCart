@@ -48,7 +48,7 @@ div.products {
     gap: 15px;
     padding: 20px;
     width: fit-content;
-
+    margin: auto;
 }
 
 @media(max-width:1369px) {
