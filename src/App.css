@@ -47,7 +47,33 @@ div.products {
     flex-wrap: wrap;
     gap: 15px;
     padding: 20px;
+    width: fit-content;
 
+}
+
+@media(max-width:1369px) {
+    div.products {
+        width: 1085px;
+    }
+}
+
+@media(max-width:1104px) {
+    div.products {
+        width: 820px;
+    }
+}
+
+@media(max-width:840px) {
+    div.products {
+        width: 555px;
+    }
+}
+
+@media(max-width:575px) {
+    div.products {
+        padding: 10px;
+        width: 270px;
+    }
 }
 
 div.price {
